@@ -1,5 +1,8 @@
 # Active Texture Management :: Change Log
 
+* 2014-0109: 2-11-aggressive (rbray89) for KSP 0.7.3
+	+ Added more advanced folder control
+	+ Contains a config file for aggressive texture reduction (halve all textures, compress all non-normalmaps, and don't generate mip-maps for normalmaps)
 * 2014-0108: 2-10-aggressive (rbray89) for KSP 0.7.3
 	+ Fixed issue with textures that aren't managed (but still compressed) by plugin.
 	+ Added KSPX config
