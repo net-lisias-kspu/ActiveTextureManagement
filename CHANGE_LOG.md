@@ -1,5 +1,7 @@
 # Active Texture Management :: Change Log
 
+* 2014-0722: 3-3-aggressive (rbray89) for KSP 0.7.3
+	+ 24 fixes
 * 2014-0709: 3-2-aggressive (rbray89) for KSP 0.7.3
 	+ Config updates for EVE
 * 2014-0405: 3-1-basic (rbray89) for KSP 0.7.3
