@@ -1,5 +1,9 @@
 # Active Texture Management :: Change Log
 
+* 2014-0107: 2-9-aggressive (rbray89) for KSP 0.7.3
+	+ Fixed TGA reading.
+	+ Added PorkWorks
+	+ Contains a config file for aggressive texture reduction (halve all textures, compress all non-normalmaps, and don't generate mip-maps for normalmaps)
 * 2014-0105: 2-8-aggressive (rbray89) for KSP 0.7.3
 	+ Moved to new config mechanism
 	+ Fixed minor *_NRM.tga file issue.
