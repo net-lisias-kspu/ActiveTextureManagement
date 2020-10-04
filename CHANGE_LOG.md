@@ -1,5 +1,7 @@
 # Active Texture Management :: Change Log
 
+* 2014-0723: 3-3-1-aggressive (rbray89) for KSP 0.7.3
+	+ BoulderCo Fix
 * 2014-0722: 3-3-aggressive (rbray89) for KSP 0.7.3
 	+ 24 fixes
 * 2014-0709: 3-2-aggressive (rbray89) for KSP 0.7.3
