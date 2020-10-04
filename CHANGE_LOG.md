@@ -1,5 +1,8 @@
 # Active Texture Management :: Change Log
 
+* 2014-1208: 4-0 (rbray89) for KSP 0.7.3
+	+ All textures are compressed, but loading is faster, and much more memory is saved.
+	+ First load will take a VERY long time. Upwards of an hour in some cases. Subsequent loads will be faster than any you have had before though.
 * 2014-1017: 3-8 (rbray89) for KSP 0.7.3
 	+ No changelog provided
 * 2014-1014: 3-7 (rbray89) for KSP 0.7.3
