@@ -1,5 +1,7 @@
 # Active Texture Management :: Change Log
 
+* 2013-1229: 2-4 (rbray89) for KSP 0.7.3
+	+ Updated config to remove alpha conversion.
 * 2013-1229: 2-3 (rbray89) for KSP 0.7.3
 	+ Added code for reversion to mbm and explicit folder includes
 	+ Hotfix to remove normalmap converion.
