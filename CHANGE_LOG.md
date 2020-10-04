@@ -1,5 +1,8 @@
 # Active Texture Management :: Change Log
 
+* 2014-1210: 4-2 (rbray89) for KSP 0.7.3
+	+ Multithreading, Uncompressed, & Fixes for huge textures
+	+ Sarbian is awesome, Give him all the rep.
 * 2014-1209: 4-1 (rbray89) for KSP 0.7.3
 	+ This will fix the issues seen with EVE and other mods.
 * 2014-1208: 4-0 (rbray89) for KSP 0.7.3
