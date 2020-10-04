@@ -1,5 +1,8 @@
 # Active Texture Management :: Change Log
 
+* 2014-1223: 4-4Beta (rbray89) for KSP 0.7.3 PRE-RELEASE
+	+ Re-uses hashed texture matches to save memory. Looking at about 64Mb for stok KSP :)
+	+ Added WAIT main config option. This allows the process to wait for threads to complete before generating a new one. Trade-off is performance vs time.
 * 2014-1217: 4-3 (rbray89) for KSP 0.7.3
 	+ More configs (thanks to Kerbas_ad_astra)
 	+ Folders use regex matching for advanced folder handling
