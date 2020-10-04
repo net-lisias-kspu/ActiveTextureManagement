@@ -1,5 +1,12 @@
 # Active Texture Management :: Change Log
 
+* 2014-0116: 2-14-basic (rbray89) for KSP 0.7.3
+	+ Fixed mipmap setting for normalmaps.
+	+ Added enable option in configs.
+	+ Moved to regex config parsing.
+	+ Due to regex parsing, merged folder and specific texture parsing.
+	+ Updated config files to match.
+	+ Renamed config files to not interfere with .cfg loading.
 * 2014-0114: 2-13-aggressive (rbray89) for KSP 0.7.3
 	+ Edited exceptions for warpplugin(interstellar) and JSI.
 	+ Added GC code to clean while loading.
