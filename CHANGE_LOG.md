@@ -1,5 +1,7 @@
 # Active Texture Management :: Change Log
 
+* 2014-1017: 3-8 (rbray89) for KSP 0.7.3
+	+ No changelog provided
 * 2014-1014: 3-7 (rbray89) for KSP 0.7.3
 	+ Now textures not specified will default to be un-modified.
 * 2014-1012: 3-6 (rbray89) for KSP 0.7.3
