@@ -1,5 +1,10 @@
 # Active Texture Management :: Change Log
 
+* 2014-1217: 4-3 (rbray89) for KSP 0.7.3
+	+ More configs (thanks to Kerbas_ad_astra)
+	+ Folders use regex matching for advanced folder handling
+	+ Everything under ActiveTextureManagement
+	+ Misc. fixes
 * 2014-1210: 4-2 (rbray89) for KSP 0.7.3
 	+ Multithreading, Uncompressed, & Fixes for huge textures
 	+ Sarbian is awesome, Give him all the rep.
