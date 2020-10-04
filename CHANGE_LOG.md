@@ -1,5 +1,8 @@
 # Active Texture Management :: Change Log
 
+* 2014-0102: 2-7-aggressive (rbray89) for KSP 0.7.3
+	+ Changes to handle normal maps properly.
+	+ Contains a config for aggressive texture resizing/compression.
 * 2013-1231: 2-6-aggressive (rbray89) for KSP 0.7.3
 	+ Added code to protect small textures.
 	+ Aggressive configuration.
