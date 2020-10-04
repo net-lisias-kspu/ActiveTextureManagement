@@ -1,5 +1,10 @@
 # Active Texture Management :: Change Log
 
+* 2014-0402: 3-0-basic (rbray89) for KSP 0.7.3
+	+ The mod now handles texture loading, will speed up loading times considerably.
+	+ KSP WILL LOOK LIKE IT FROZE (WHITE SCREEN) SIMPLY WAIT, AND IT WILL EVENTUALLY LOAD.
+	+ Delete BoulderCo (may have to re-install VisualEnhancements)
+	+ BASIC CONFIG
 * 2014-0129: 2-15-aggressive (rbray89) for KSP 0.7.3
 	+ Fixed normal maps completely.
 	+ Now using a dynamic cache mechanism (as suggested by ecat on KSP forums).
