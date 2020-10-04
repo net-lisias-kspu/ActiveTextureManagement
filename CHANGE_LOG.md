@@ -1,5 +1,9 @@
 # Active Texture Management :: Change Log
 
+* 2013-1231: 2-5-aggressive (rbray89) for KSP 0.7.3
+	+ Moved to a method that does NOT generate files on disk. Should automatically revert mbmbs back.
+	+ Automatically compresses all textures, extra options available if folders are added.
+	+ Contains a config for very aggressive texture re-sizing/compression.
 * 2013-1229: 2-4 (rbray89) for KSP 0.7.3
 	+ Updated config to remove alpha conversion.
 * 2013-1229: 2-3 (rbray89) for KSP 0.7.3
