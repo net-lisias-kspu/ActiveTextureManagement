@@ -1,5 +1,7 @@
 # Active Texture Management :: Change Log
 
+* 2014-1012: 3-6 (rbray89) for KSP 0.7.3
+	+ Sarbian figured out how to override KSPs internal texture loaders. Go give Sarbian some reputation on the forums now!
 * 2014-1012: 3-5 (rbray89) for KSP 0.7.3
 	+ Update to address changes in KSP update .25
 	+ Credit to Sarbian for pointing out the issue.
