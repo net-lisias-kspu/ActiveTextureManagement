@@ -1,5 +1,8 @@
 # Active Texture Management :: Change Log
 
+* 2014-1012: 3-5 (rbray89) for KSP 0.7.3
+	+ Update to address changes in KSP update .25
+	+ Credit to Sarbian for pointing out the issue.
 * 2014-0906: 3-4 (rbray89) for KSP 0.7.3
 	+ No changelog provided
 * 2014-0723: 3-3-1-aggressive (rbray89) for KSP 0.7.3
