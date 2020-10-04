@@ -1,5 +1,9 @@
 # Active Texture Management :: Change Log
 
+* 2014-0129: 2-15-aggressive (rbray89) for KSP 0.7.3
+	+ Fixed normal maps completely.
+	+ Now using a dynamic cache mechanism (as suggested by ecat on KSP forums).
+	+ Contains a config file for aggressive texture reduction (halve all textures, compress all non-normalmaps, and don't generate mip-maps for normalmaps)
 * 2014-0116: 2-14-basic (rbray89) for KSP 0.7.3
 	+ Fixed mipmap setting for normalmaps.
 	+ Added enable option in configs.
