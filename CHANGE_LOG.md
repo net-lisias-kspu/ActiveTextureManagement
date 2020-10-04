@@ -1,5 +1,7 @@
 # Active Texture Management :: Change Log
 
+* 2014-1014: 6-8 (rbray89) for KSP 1.0 PRE-RELEASE
+	+ No changelog provided
 * 2015-0428: 5-0 (rbray89) for KSP 1.0
 	+ Updated for KSP 1.0
 * 2014-1223: 4-4Beta (rbray89) for KSP 0.7.3 PRE-RELEASE
